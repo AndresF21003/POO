@@ -131,7 +131,7 @@ class MenuDashboard:
 
     def _manejar_script(self, ruta_script, nombre_script):
         """
-        Método auxiliar para manejar la lógica de visualización y ejecución de un script específico.
+        Metodo auxiliar para manejar la lógica de visualización y ejecución de un script específico.
         Encapsula la lógica de interacción final[cite: 87].
         """
         codigo = self.gestor.leer_archivo(ruta_script)
